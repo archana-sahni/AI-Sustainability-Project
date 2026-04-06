@@ -1,30 +1,28 @@
 # 🌍 AI Energy & Carbon Footprint Predictor
 
-**Project for GTU Internship 2026**  
+**GTU Internship 2026**  
 **Problem Domain 3: Sustainability**
 
-### What this project does:
-- Takes simple inputs from user (people, AC hours, electricity bill, city)
-- Uses **Machine Learning (Linear Regression)** to predict:
-  - Monthly energy consumption (kWh)
-  - Carbon footprint (kg CO₂)
-- Shows beautiful bar chart comparing your house with average Indian household
-- Gives practical suggestion to reduce energy
+### How to Run the Project (Local)
 
-### Technologies Used:
-- Python + Flask (Backend)
-- Scikit-learn (AI / Machine Learning)
-- HTML + CSS (Frontend)
-- Chart.js (for charts)
+**Follow these steps exactly:**
 
-### How to run:
-1. Open folder in VS Code
-2. Open terminal and run: `venv\Scripts\activate`
-3. Run: `python model.py` (trains AI once)
-4. Run: `python app.py`
-5. Open browser → http://127.0.0.1:5000
+1. Download the project (or clone it)
+2. Open the folder in VS Code
+3. Open Terminal and run:venv\Scripts\activate
+4. Train the AI model (only once):python model.py
+5. Start the web application:python app.py
+6. Open your browser and go to:  
+**http://127.0.0.1:5000**
 
-### Features:
-- Real AI predictions (changes with input values)
-- Responsive and clean design
+**Note:** The link above will only work **after** you run `python app.py`.  
+It will **not** work if you click it directly from GitHub.
+
+### Features
+- Real AI predictions (changes with different input values)
+- Beautiful bar chart comparing your house with average house
+- Clean and responsive design
+- Practical energy-saving suggestions
 - Easy to understand for anyone
+Save the file (Ctrl + S).
+Now push the updated README to GitHub:In terminal (make sure (venv) is visible), run these two commands:Bash
