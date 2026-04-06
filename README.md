@@ -24,5 +24,3 @@ It will **not** work if you click it directly from GitHub.
 - Clean and responsive design
 - Practical energy-saving suggestions
 - Easy to understand for anyone
-Save the file (Ctrl + S).
-Now push the updated README to GitHub:In terminal (make sure (venv) is visible), run these two commands:Bash
