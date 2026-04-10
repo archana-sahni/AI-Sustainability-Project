@@ -1,9 +1,9 @@
-# 🌍 AI Energy & Carbon Footprint Predictor
+# AI Energy & Carbon Footprint Predictor
 
 **GTU Internship 2026**  
 **Problem Domain 3: Sustainability**
 
-### How to Run the Project (Local)
+# How to Run the Project (Local)
 
 **Follow these steps exactly:**
 
@@ -18,7 +18,7 @@
 **Note:** The link above will only work **after** you run `python app.py`.  
 It will **not** work if you click it directly from GitHub.
 
-### Features
+# Features
 - Real AI predictions (changes with different input values)
 - Beautiful bar chart comparing your house with average house
 - Clean and responsive design
